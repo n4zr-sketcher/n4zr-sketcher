@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Imran Naseer
 
-<!--
-**n4zr-sketcher/n4zr-sketcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.tech Computer Engineering (Cyber Security) Specialization Student
 
-Here are some ideas to get you started:
+Passionate about Ethical Hacking | IAM | Cloud Security | Prompt Engineering | Full Stack Development | AI-based security solutions | GRC
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What Am I Currently Working On?
+- Vulnerability Assessment and Penetration Testing
+- Secure Full Stack Web Applications
+- Insider Threat Prediction Framework Using Continous Behaviour Analytics
+
+## ⚒️ Tools & Technologies
+Python • JavaScript • HTML • CSS • Java • C • C++ • MySQL • Kali Linux • Wireshark • Burp Suite • Nmap • Metasploit
+
+## 📫 How to Reach Me
+💼 LinkedIn: www.linkedin.com/in/imran-naseer-9253733ba  
+🌐 Portfolio: Coming Soon  
+📧 Email: imrannaseeribrahim@gmail.com
